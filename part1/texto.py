@@ -1,9 +1,9 @@
 # "This is a string."
 # 'This is also a string.'
 
-# print("Meu nome é " + "Joca!")
+print("Meu nome é " + "Joca!")
 
-# print("abc" * 3)
+print("joca " * 3)
 
 # print("joca" * 3)
 # print("joca " * 3)
