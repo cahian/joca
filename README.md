@@ -1,3 +1,3 @@
-# Joca
+# Joca Aulas
 
-Anotações e exercícios que eu fiz para a aula de Python do Joca.
+Anotações e exercícios que eu fiz para as aulas de Tecnologia do Joca.
