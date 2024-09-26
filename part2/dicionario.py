@@ -35,4 +35,25 @@ freefire_players = {
 # print(freefire_players['Freitas']) # chaves
 # print(freefire_players.get('Freitas')) # get método
 # print(freefire_players['Xuxa'])
-print(freefire_players.get('Xuxa'))
+# print(freefire_players.get('Xuxa'))
+
+
+freefire_players = {
+	'Nobru': 'Loud',
+	'Freitas': 'Fluxo',
+	'Lszinn': 'Loud',
+}
+
+print('Antes:')
+print(freefire_players)
+
+freefire_players['Bradoock'] = 'Loud'
+freefire_players['Babi'] = 'Loud'
+
+print('Depois:')
+print(freefire_players)
+
+freefire_players['Nobru'] = 'Fluxo'
+
+print('Houve uma troca de time:')
+print(freefire_players)
