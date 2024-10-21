@@ -11,6 +11,15 @@
 # # elif = senão se
 # # else = senão
 
+# if <condição>:
+#   <ação>
+# elif <condição>:
+#   <ação>
+# else:
+#   <ação>
+
+
+
 bateria = 200
 
 if bateria <= 5:  # True ou False
@@ -19,7 +28,7 @@ elif bateria <= 15:  # True ou False
   print("Sua bateria está fraca! Coloque num carregador!")
 elif bateria > 100:
   print('Procure um técnico especializado imediatamente para trocar a sua bateria!!!!!!')
-else:
+else: # Always True
   print('Sua bateria está normal!!!')
 
 print('Fim do programa!')
